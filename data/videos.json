@@ -1,5 +1,26 @@
 [
   {
+    "slug": "calebfahlgren-601165",
+    "title": "A detailed 1950s house explored in first person",
+    "title_zh": "走进细节丰富的五十年代住宅",
+    "author": "calebfahlgren",
+    "author_url": "https://x.com/calebfahlgren",
+    "post_url": "https://x.com/calebfahlgren/status/2120680918914601165",
+    "posted_at": "2026-11-12T00:51:46Z",
+    "category": "3d",
+    "duration_seconds": 43.77,
+    "width": 1920,
+    "height": 1080,
+    "video_url": "https://media.skillry.dev/fable-5-2/calebfahlgren-601165/video.891bc46dd6.mp4",
+    "poster_url": "https://media.skillry.dev/fable-5-2/calebfahlgren-601165/poster.41909e9da3.webp",
+    "preview_url": "https://media.skillry.dev/fable-5-2/calebfahlgren-601165/preview.be6480b912.webp",
+    "skillry_url": "https://skillry.dev/ai-videos/fable5-2/calebfahlgren-601165",
+    "prompt": "\"i want you to build a triple AAA level mini house like the one in call of duty nuketown, like that two story house, incredible detail, can run in threejs fps. send me screenshots as you build it and use subagents ot critique. this should be incredible.\n\nuse hf jobs for gpu for rendering\"",
+    "prompt_source_url": "https://x.com/calebfahlgren/status/2120680922336862315",
+    "demo_url": null,
+    "post_text": "Fable 5.2 is pretty unreal at 3D 😵‍💫\n\nI gave it one prompt to build a house. A few hours later, it made this masterpiece\n\nthe prompt was surprisingly simple:"
+  },
+  {
     "slug": "iamwesleysmits-599912",
     "title": "An AI announces its software engineering takeover",
     "title_zh": "AI 宣布接管软件工程的动效短片",
