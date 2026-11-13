@@ -1,5 +1,26 @@
 [
   {
+    "slug": "chetaslua-330707",
+    "title": "Two dragons clash above a mountain valley",
+    "title_zh": "双龙在山谷上空交战",
+    "author": "chetaslua",
+    "author_url": "https://x.com/chetaslua",
+    "post_url": "https://x.com/chetaslua/status/2121176151234330707",
+    "posted_at": "2026-11-13T09:39:38Z",
+    "category": "3d",
+    "duration_seconds": 85.4,
+    "width": 1920,
+    "height": 1054,
+    "video_url": "https://media.skillry.dev/fable-5-2/chetaslua-330707/video.397eafbbd4.mp4",
+    "poster_url": "https://media.skillry.dev/fable-5-2/chetaslua-330707/poster.e23ec0968d.webp",
+    "preview_url": "https://media.skillry.dev/fable-5-2/chetaslua-330707/preview.3ab7875b94.webp",
+    "skillry_url": "https://skillry.dev/ai-videos/fable5-2/chetaslua-330707",
+    "prompt": null,
+    "prompt_source_url": null,
+    "demo_url": "https://chetaslua.github.io/crimson-loong/",
+    "post_text": "Fable 5.2 can achieve this with @threejs < no external assets at all>"
+  },
+  {
     "slug": "calebfahlgren-601165",
     "title": "A detailed 1950s house explored in first person",
     "title_zh": "走进细节丰富的五十年代住宅",
